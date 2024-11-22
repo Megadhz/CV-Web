@@ -194,6 +194,7 @@ ul {
 .skills li:hover {
   transform: scale(1.1);
   color: #2dbf88;
+  cursor: pointer;
 }
 
 .fluency li {
@@ -205,6 +206,7 @@ ul {
 .fluency li:hover {
   transform: scale(1.1);
   color: #2dbf88;
+  cursor: pointer;
 }
 
 .education {
